@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.222" x2="0.681" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b5d8f6"/>
+      <stop offset="1" stop-color="#1c5fa8"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_step1" transform="translate(-919 -697)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="43.5" cy="43.5" r="43.5" transform="translate(919 697)" fill="url(#linear-gradient)"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(-1.367 -1.367)">
+      <path id="Icon_awesome-pen-alt" data-name="Icon awesome-pen-alt" d="M37.669,5.611,33.122,1.064a3.633,3.633,0,0,0-5.137,0L23.707,5.342l9.685,9.685,4.278-4.278a3.633,3.633,0,0,0,0-5.137ZM19,4.058a3.025,3.025,0,0,0-4.279,0L5.734,13.044a1.21,1.21,0,0,0,0,1.711l1.712,1.712a1.21,1.21,0,0,0,1.712,0l7.7-7.7,1.712,1.711L7.107,21.941A24.741,24.741,0,0,0,.013,36.7l0,.017a1.816,1.816,0,0,0,2,2.005,24.739,24.739,0,0,0,14.778-7.1L31.679,16.738l-6.262-6.262L19,4.058Z" transform="translate(944.001 721)" fill="#fff"/>
+      <path id="Path_17" data-name="Path 17" d="M497.265,774.189h38.449" transform="translate(447.02 -15.329)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

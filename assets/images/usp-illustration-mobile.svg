@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143.411" height="68.146" viewBox="0 0 143.411 68.146">
+  <g id="usp_illustration" data-name="usp illustration" transform="matrix(0.996, -0.087, 0.087, 0.996, -1028.429, -602.079)">
+    <text id="Gratis_en_vrijblijvend_" data-name="Gratis en vrijblijvend!" transform="translate(974 750)" fill="#fff" 
+	font-size="17" font-family="quinzeybold" font-weight="400" letter-spacing="0.02em">
+	<tspan x="0" y="0"></tspan></text>
+    <g id="arrow" transform="translate(-210.878 1134.045) rotate(-53)">
+      <path id="Path_109" data-name="Path 109" d="M932.783,708.643s10.083-20.692,31.469-26.239" 
+	  transform="translate(110.046 10.86)" fill="none" stroke="#3786f7" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_110" data-name="Path 110" 
+	  d="M987.413,688.068a31.809,31.809,0,0,1,10.253.544c-5.148,1.727-8.379,6.611-8.379,6.611a9.931,9.931,0,0,0-4.569-6.611" 
+	  transform="translate(78.075 4.622)" 
+	  fill="none" stroke="#3786f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

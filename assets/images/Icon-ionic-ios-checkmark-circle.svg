@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5fc83d"/>
+      <stop offset="1" stop-color="#20c19e"/>
+    </linearGradient>
+  </defs>
+  <g id="check_icon" data-name="check icon" transform="translate(-143 -371)">
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="10.5" cy="10.5" r="10.5" transform="translate(143 371)" fill="url(#linear-gradient)"/>
+    <path id="check" d="M7.428,11.857,6,13.285l4.285,4.285,7.142-7.142L16,9l-5.714,5.714Z" transform="translate(141.786 368.215)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

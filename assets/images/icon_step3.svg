@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.222" x2="0.681" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b5d8f6"/>
+      <stop offset="1" stop-color="#1c5fa8"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_step3" transform="translate(-1191 -697)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="43.5" cy="43.5" r="43.5" transform="translate(1191 697)" fill="url(#linear-gradient)"/>
+    <g id="Icon_ionic-ios-wallet" data-name="Icon ionic-ios-wallet" transform="translate(1216.08 716.21)">
+      <path id="Path_28" data-name="Path 28" d="M42.189,11.25H9.917a6.547,6.547,0,0,0-6.542,6.542V36.108A6.547,6.547,0,0,0,9.917,42.65H42.189a6.547,6.547,0,0,0,6.542-6.542V17.792A6.547,6.547,0,0,0,42.189,11.25Z" transform="translate(-3.375 -0.782)" fill="#fff"/>
+      <path id="Path_29" data-name="Path 29" d="M34.908,4.609,9.3,9.614c-1.963.436-4.8,2.41-4.8,4.808A6.87,6.87,0,0,1,9.842,12.35H41.134V10.115a6.261,6.261,0,0,0-1.515-4.1h0A5.156,5.156,0,0,0,34.908,4.609Z" transform="translate(-2.756 -4.499)" fill="#fff"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(1206.282 731.319)">
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0 -0.484)" fill="#fff" stroke="#7aa9d8" stroke-width="3">
+        <circle cx="17.282" cy="17.282" r="17.282" stroke="none"/>
+        <circle cx="17.282" cy="17.282" r="15.782" fill="none"/>
+      </g>
+      <path id="Icon_material-euro-symbol" data-name="Icon material-euro-symbol" d="M16.122,19.512a6.276,6.276,0,0,1-5.579-3.39h5.579V14.185H9.9a6.092,6.092,0,0,1,0-1.937h6.218V10.311H10.544a6.283,6.283,0,0,1,9.676-1.869l1.714-1.714A8.7,8.7,0,0,0,7.909,10.311H4.5v1.937H7.464a8.1,8.1,0,0,0,0,1.937H4.5v1.937H7.909a8.7,8.7,0,0,0,14.024,3.584L20.21,17.992a6.2,6.2,0,0,1-4.087,1.521Z" transform="translate(1.129 3.842)" fill="#6fa0d2"/>
+    </g>
+  </g>
+</svg>

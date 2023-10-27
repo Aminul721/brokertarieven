@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.977" height="19.964" viewBox="0 0 18.977 19.964">
+  <g id="top-icon-freeinfo" transform="translate(-9.669 -8.694)">
+    <g id="Group_1519" data-name="Group 1519" transform="translate(9.669 22.769)">
+      <path id="Icon_awesome-hand-holding" data-name="Icon awesome-hand-holding" d="M17.512,22.748a1.015,1.015,0,0,0-1.307,0l-2.834,2.267a1.953,1.953,0,0,1-1.227.429H8.516a.491.491,0,0,1,0-.981h2.4a1.021,1.021,0,0,0,1.021-.816A.983.983,0,0,0,10.97,22.5H6.062a3.61,3.61,0,0,0-2.273.807L2.364,24.463H-.645a.492.492,0,0,0-.491.491V27.9a.492.492,0,0,0,.491.491H11.608a1.965,1.965,0,0,0,1.227-.429l4.637-3.711A.981.981,0,0,0,17.512,22.748Z" transform="translate(1.136 -22.5)" fill="#3b5998"/>
+    </g>
+    <g id="Icon_feather-info" data-name="Icon feather-info" transform="translate(13.173 9.444)">
+      <path id="Path_602" data-name="Path 602" d="M12.7,7.848A4.848,4.848,0,1,1,7.848,3,4.848,4.848,0,0,1,12.7,7.848Z" transform="translate(-3 -3)" fill="none" stroke="#3b5998" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_603" data-name="Path 603" d="M18,19.939V18" transform="translate(-13.152 -13.152)" fill="none" stroke="#3b5998" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_604" data-name="Path 604" d="M18,12h0" transform="translate(-13.152 -9.091)" fill="none" stroke="#3b5998" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
